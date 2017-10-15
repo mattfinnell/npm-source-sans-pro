@@ -6,4 +6,6 @@ is a set of OpenType fonts by
 
 This package is a fork of [this repo](https://github.com/flosse/npm-source-sans-pro)
 
-   yarn add https://github.com/mattfinnell/npm-source-sans-pro.git 
+ ```
+yarn add https://github.com/mattfinnell/npm-source-sans-pro.git 
+```
