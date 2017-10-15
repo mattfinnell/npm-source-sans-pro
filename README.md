@@ -4,5 +4,6 @@
 is a set of OpenType fonts by
 [Paul D. Hunt](mailto:opensourcefonts@adobe.com).
 
+This package is a fork of [this repo](https://github.com/flosse/npm-source-sans-pro)
 
-    npm i --save source-sans-pro
+   yarn add https://github.com/mattfinnell/npm-source-sans-pro.git 
